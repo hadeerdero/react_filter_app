@@ -1,0 +1,20 @@
+.cardwrapper{
+    border: 1px solid black;
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+}
+.deleteBtn{
+    position: absolute;
+        background-color: red;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        top: -10px;
+        right: -9px;
+        text-align: center;
+        cursor: pointer;
+    
+}

@@ -1,0 +1,34 @@
+.control {
+    width: 80%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.control Label{
+    font-weight: bold;
+    color: #212529;
+}
+
+.control Input {
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: #495057;
+    font-size: 15px;
+}
+.button {
+    background-color: #04AA6D;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
